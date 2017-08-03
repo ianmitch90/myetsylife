@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
-// TODO: map state to props yo
+// TODO: map state to props
+
 class Product extends Component {
     render() {
         const {product} = this.props;
